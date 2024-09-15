@@ -1,0 +1,102 @@
+.home{
+          background-image:url('./gallery/4bc5961f9c0af43fc2ca1f8fc35fc6b4.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    width: 700px;
+    height: 1500px;
+  }     
+.home a{
+    background: #000;
+    border-radius: 15%;
+    border: 2px #333 solid;
+    position: absolute;
+    right: 50px;
+    margin-bottom: 500px;
+    text-decoration: none;
+    bottom: 40px;
+    color: #fff;
+    font-size: 2rem;
+}
+
+          .room{
+          background-image:url('./gallery/ISah33hip2p9b80000000000.0.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    width: 1000px;
+    height: 1500px;
+  }     
+.kit{
+    
+    position: absolute;
+    right: 0;
+    bottom: 20%;
+    text-align: center;
+    color: yellow;
+    font-size: 2.9rem;
+}
+.bed{
+        
+    position: absolute;
+    left: 0;
+    bottom: 40%;
+    text-align: center;
+    color: brown;
+    font-size: 2.9rem;
+}
+
+.kitchen{
+          background-image:url('./gallery/featured-image-kitchen-layouts.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 1000px;
+    height: 1500px;
+  }     
+  
+.kitchen .food{
+        
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    color: #fff;
+    font-size: 2.9rem;
+}
+
+
+.bed_room{
+   background-image:url('./gallery/_bedroom_with_rustic_bedroom_color_schemes_setting_a_warm_and_inviting_mood.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width:1000px ;
+    height:1500px ;
+}
+  
+.link_bed{
+        
+background: #000;
+    border-radius: 15%;
+    border: 2px #333 solid;
+    position: absolute;
+    right: 50px;
+    margin-bottom: 500px;
+    text-decoration: none;
+    bottom: 40px;
+    color: #fff;
+    font-size: 2rem;
+}
+#skip-button{
+    border: 2px #32ff6f solid;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
